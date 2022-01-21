@@ -12,13 +12,13 @@ class Ainn extends React.Component {
                     <ul>
                         <h5>2021</h5>
                         <Container>
-                            <a target={"blank"} href='#'>
+                            <a target={"blank"} href='/#'>
                                 <Button variant='outline-secondary'><li>mse1</li></Button>
                             </a>
-                            <a target={"blank"} href='#'>
+                            <a target={"blank"} href='/#'>
                                 <Button variant='outline-secondary'><li>mse2</li></Button>
                             </a>
-                            <a target={"blank"} href='#'>
+                            <a target={"blank"} href='/#'>
                                 <Button variant='outline-secondary'><li>mse3</li></Button>
                             </a>
                         </Container>
